@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Portugol
 
 > - É uma pseudolinguagem para o desenvolvimento de algoritmos em portugês estruturado.
@@ -6,11 +7,25 @@
 
     algoritmo <nome_do_algoritmo>
         var
+=======
+<<<<<<<< HEAD:algoritmos/resumo-portugol.md
+#Portugol Overview
+========
+# Portugol Overview
+>>>>>>>> 3e95bf19d2bffa29cbc0df52405863b80d66a9d4:algoritmos/resumo-portugol.txt
+
+### - É uma pseudolinguagem para o desenvolvimento de algoritmos em portugês estruturado.
+
+## - Estrutura básica:
+    algoritmo <nome_do_algoritmo>
+    var
+>>>>>>> 3e95bf19d2bffa29cbc0df52405863b80d66a9d4
         <declaracao_de_variaveis>
     inicio
         <instrucoes_do_algoritmo>
     fim
 
+<<<<<<< HEAD
 
 ### - Tipos de dados:
 - **Inteiro:** 0, 1, 50, 1000...
@@ -56,6 +71,51 @@
 - **Saída:** Escreva( ) ou Escreval( )   *{O segundo quebra a linha após a saída}*
 
 ### - Declaração de variável/constante:
+=======
+## - Tipos de dados:
+    -Inteiro: 0, 1, 50, 1000...
+    -Real: 1.2, 5.6, 10.1...
+    -Caracter: caracteres alfanuméricos
+    -Lógico: 'VERDADEIRO' ou 'FALSO'
+
+- Operadores aritméticos:
+    -Adição: '+'
+    -Subtração: '-'
+    -Multiplicação: '*'
+    -Divisão: '/'
+    -Divisão inteira: '\'
+    -Módulo: '%'
+    -Potenciação: '^' ou '**'
+
+- Operadores relacionais: {sempre vão retornar um valor lógico}
+    -Igual a: '=' ou '=='
+    -Maior que: '>'
+    -Menor que: '<'
+    -Maior ou igual a: '>='
+    -Menor ou igual a: '<='
+    -Diferente de: '<>' ou '!='
+
+- Operadores lógicos:
+    -NAO: Verdadeiro se o operando for falso, falso se o operando for verdadeiro
+    -E: Verdadeiro somente se ambos os operandos são verdadeiros
+    -OU: Verdadeiro se pelo menos um dos operandos for verdadeiro
+
+* Precedência de operadores:
+        1º Parênteses
+        2º Potenciação
+        3º Multiplicação, Divisão, Módulo e Divisão inteira
+        4º Adição e Subtração
+        5º Relacional
+        6º Negação
+        7º Conjunção
+        8º Disjunção
+
+- Entrada e Saída:
+    -Entrada: Leia()
+    -Saída: Escreva() ou Escreval() {O segundo quebra a linha após a saída}
+
+- Declaração de variável/constante:
+>>>>>>> 3e95bf19d2bffa29cbc0df52405863b80d66a9d4
     var
         nome: caractere;
         idade: inteiro;
@@ -66,6 +126,7 @@
         DIAS=365;
         CPF=1234567891011;
 
+<<<<<<< HEAD
 ### - Atribuição:
 - '<-'
 - var <- valor
@@ -91,11 +152,26 @@
     se (<condição>) entao
         <bloco de comandos verdadeiro>
     senao
+=======
+- Atribuição:
+    - '<-'
+    - var <- valor
+    - Exemplo: nome <- Gustavo
+
+- Estruturas condicionais:
+    -SE-ENTÃO:
+        se (<condição>) entao
+            <bloco de comandos>
+        fimse
+    
+    -SE-ENTÃO-SENÃO:
+>>>>>>> 3e95bf19d2bffa29cbc0df52405863b80d66a9d4
         se (<condição>) entao
             <bloco de comandos verdadeiro>
         senao
             <bloco de comandos falso>
         fimse
+<<<<<<< HEAD
     fimse
     ~~~~
     OU
@@ -157,4 +233,74 @@
 - Graus para Rad: GraupRad()
 
 {em construção} <br>
+=======
+
+    -Condições aninhadas:
+        se (<condição>) entao
+            <bloco de comandos verdadeiro>
+        senao
+            se (<condição>) entao
+                <bloco de comandos verdadeiro>
+            senao
+                <bloco de comandos falso>
+            fimse
+        fimse
+
+        OU
+
+        se (<condição>) entao
+            se (<condição>) entao
+                <bloco de comandos verdadeiro>
+            senao
+                <bloco de comandos falso>
+            fimse
+        senao
+            <bloco de comandos falso>
+        fimse
+
+    -ESCOLHA-CASO:
+        escolha (<variavel>)
+            caso <valor1>
+                <bloco de comandos 1>;
+            caso <valor2>
+                <bloco de comandos 2>;
+            ...
+            caso <valorN>
+                <bloco de comandos N>;
+            outrocaso
+                <bloco de comandos para nenhum caso verdadeiro>;
+        fimescolha
+
+- Estruturas de repetição:
+    -ENQUANTO-FAÇA:
+        enquanto (<condição>) faca
+            <bloco de comandos>
+        fimenquanto
+    
+    -REPITA-ATÉ:
+        repita
+            <bloco de comandos>
+        ate (<condição>)
+
+    -PARA-FAÇA:
+        para <variavel> de <valor inicial> ate <valor final> passo <incremento> faca
+            <bloco de comandos>
+        fimpara
+
+- Funções Aritméticas:
+    -Valor absoluto: Abs()
+    -Exponenciação: Exp()
+    -Valor inteiro: Int()
+    -Raiz quadrada: RaizQ()
+    -PI: Pi
+    -Seno(rad): Sen()
+    -Cosseno(rad): Cos()
+    -Tangente(rad): Tan()
+    -Graus para Rad: GraupRad()
+
+
+
+
+{em construção}
+>>>>>>> 3e95bf19d2bffa29cbc0df52405863b80d66a9d4
 ...
