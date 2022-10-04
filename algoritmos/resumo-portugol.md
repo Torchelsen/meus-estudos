@@ -1,6 +1,6 @@
 ## Portugol
 
-> - É uma pseudolinguagem para o desenvolvimento de algoritmos em portugês estruturado.
+> - É uma pseudolinguagem para o desenvolvimento de algoritmos em português estruturado.
 
 ### - Estrutura básica:
 
