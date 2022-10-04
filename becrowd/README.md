@@ -1,0 +1,24 @@
+![Logo Becrowd](https://repository-images.githubusercontent.com/452657937/1132479a-b4e2-476a-93c6-dc0fcabab6d6)
+> Lista dos problemas que resolvi, buscando praticar e adquirir novos conhecimentos.
+
+## Problemas Resolvidos:
+| Problema | Nome | Linguagem |
+| ----------- | ----------- | ----------- |
+| 1000 | Hello World! | [C](https://github.com/torchelsen/meus-estudos/blob/main/becrowd/C/1000.c) \| [JavaScript](https://github.com/torchelsen/meus-estudos/blob/main/becrowd/JavaScript/1000.js)
+| 1001 | Extremamente Básico | [C](https://github.com/torchelsen/meus-estudos/blob/main/becrowd/C/1001.c) \| [JavaScript](https://github.com/torchelsen/meus-estudos/blob/main/becrowd/JavaScript/1001.js)
+| 1002 | Área do Círculo | [C](https://github.com/torchelsen/meus-estudos/blob/main/becrowd/C/1002.c) \| [JavaScript](https://github.com/torchelsen/meus-estudos/blob/main/becrowd/JavaScript/1002.js)
+| 1003 | Soma Simples | [C](https://github.com/torchelsen/meus-estudos/blob/main/becrowd/C/1003.c) \| [JavaScript](https://github.com/torchelsen/meus-estudos/blob/main/becrowd/JavaScript/1003.js)
+| 1004 | Produto Simples | [C](https://github.com/torchelsen/meus-estudos/blob/main/becrowd/C/1004.c) \| [JavaScript](https://github.com/torchelsen/meus-estudos/blob/main/becrowd/JavaScript/1004.js)
+| 1005 | Média 1 | [C](https://github.com/torchelsen/meus-estudos/blob/main/becrowd/C/1005.c) \| [JavaScript](https://github.com/torchelsen/meus-estudos/blob/main/becrowd/JavaScript/1005.js)
+| 1006 | Média 2 | [C](https://github.com/torchelsen/meus-estudos/blob/main/becrowd/C/1006.c) \| [JavaScript](https://github.com/torchelsen/meus-estudos/blob/main/becrowd/JavaScript/1006.js)
+| 1007 | Diferença | [C](https://github.com/torchelsen/meus-estudos/blob/main/becrowd/C/1007.c) \| [JavaScript](https://github.com/torchelsen/meus-estudos/blob/main/becrowd/JavaScript/1007.js)
+| 1008 | Salário | [C](https://github.com/torchelsen/meus-estudos/blob/main/becrowd/C/1008.c) \| [JavaScript](https://github.com/torchelsen/meus-estudos/blob/main/becrowd/JavaScript/1008.js)
+| 1009 | Salário com Bônus | [C](https://github.com/torchelsen/meus-estudos/blob/main/becrowd/C/1009.c) \| [JavaScript](https://github.com/torchelsen/meus-estudos/blob/main/becrowd/JavaScript/1009.js)
+| 1010 | Cálculo Simples | [C](https://github.com/torchelsen/meus-estudos/blob/main/becrowd/C/1010.c) \| [JavaScript](https://github.com/torchelsen/meus-estudos/blob/main/becrowd/JavaScript/1010.js)
+| 1011 | Esfera | [C](https://github.com/torchelsen/meus-estudos/blob/main/becrowd/C/1011.c) \| [JavaScript](https://github.com/torchelsen/meus-estudos/blob/main/becrowd/JavaScript/1011.js)
+| 1012 | Área | [C](https://github.com/torchelsen/meus-estudos/blob/main/becrowd/C/1012.c) \| [JavaScript](https://github.com/torchelsen/meus-estudos/blob/main/becrowd/JavaScript/1012.js)
+| 1013 | O Maior | [C](https://github.com/torchelsen/meus-estudos/blob/main/becrowd/C/1013.c) \| [JavaScript](https://github.com/torchelsen/meus-estudos/blob/main/becrowd/JavaScript/1013.js)
+| 1014 | Consumo | [C](https://github.com/torchelsen/meus-estudos/blob/main/becrowd/C/1014.c) \| [JavaScript](https://github.com/torchelsen/meus-estudos/blob/main/becrowd/JavaScript/1014.js)
+| 1015 | Distância Entre Dois Pontos | [C](https://github.com/torchelsen/meus-estudos/blob/main/becrowd/C/1015.c) \| [JavaScript](https://github.com/torchelsen/meus-estudos/blob/main/becrowd/JavaScript/1015.js)
+| 1016 | Distância | [C](https://github.com/torchelsen/meus-estudos/blob/main/becrowd/C/1016.c) \| [JavaScript](https://github.com/torchelsen/meus-estudos/blob/main/becrowd/JavaScript/1016.js)
+| 1017 | Gasto de Combustível | [C](https://github.com/torchelsen/meus-estudos/blob/main/becrowd/C/1017.c) \| [JavaScript](https://github.com/torchelsen/meus-estudos/blob/main/becrowd/JavaScript/1017.js)
