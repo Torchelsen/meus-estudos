@@ -1,8 +1,8 @@
-Portugol Overview
+# Portugol Overview
 
-- É uma pseudolinguagem para o desenvolvimento de algoritmos em portugês estruturado.
+### - É uma pseudolinguagem para o desenvolvimento de algoritmos em portugês estruturado.
 
-- Estrutura básica:
+## - Estrutura básica:
     algoritmo <nome_do_algoritmo>
     var
         <declaracao_de_variaveis>
@@ -10,11 +10,11 @@ Portugol Overview
         <instrucoes_do_algoritmo>
     fim
 
-- Tipos de dados:
+## - Tipos de dados:
     -Inteiro: 0, 1, 50, 1000...
     -Real: 1.2, 5.6, 10.1...
     -Caracter: caracteres alfanuméricos
-    -Lógico: 'verdadeiro' ou 'falso'
+    -Lógico: 'VERDADEIRO' ou 'FALSO'
 
 - Operadores aritméticos:
     -Adição: '+'
@@ -25,7 +25,7 @@ Portugol Overview
     -Módulo: '%'
     -Potenciação: '^' ou '**'
 
-- Operadores relacionais:
+- Operadores relacionais: {sempre vão retornar um valor lógico}
     -Igual a: '=' ou '=='
     -Maior que: '>'
     -Menor que: '<'
@@ -143,7 +143,7 @@ Portugol Overview
     -Cosseno(rad): Cos()
     -Tangente(rad): Tan()
     -Graus para Rad: GraupRad()
-    
+
 
 
 
