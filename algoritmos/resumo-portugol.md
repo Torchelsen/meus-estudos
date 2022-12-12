@@ -68,7 +68,7 @@
 
 ### - Atribuição:
 - '<-'
-- var <- valor
+- variavel <- valor
 - **Exemplo:** nome <- Gustavo
 
 ### - Estruturas condicionais:
