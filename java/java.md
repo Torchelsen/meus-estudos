@@ -72,7 +72,7 @@
   - boolean
   
 ## Variável
-- type identifier [ = value][, identifier [= value] ...] ;
+` type identifier [ = value][, identifier [= value] ...]; ` 
   - Ex:
     >
         int x = 5;
@@ -80,4 +80,56 @@
         char letra = 'a';
         boolean teste = true;
         
+
+## Estruturas de repetição
+
+> Mesma sintaxe de C
+
+- IF
+  ```
+  if(condição){
+    ação;
+  }
+  ``` 
+- IF/ELSE
+  ```
+  if(condição){
+    açãotrue;
+  }else{
+    açãofalse;
+  }
+  ``` 
+- IF/ELSE IF
+  ```
+  if(condição){
+    ação1;
+  }else if{
+    ação2;
+  }else{
+    ação3;
+  }
+  ``` 
+- SWITCH CASE
+  ```
+  switch(seletor){
+    case 1: ação;
+    break;
+    case n: ação;
+    break;
+    default: ação;
+  }
+  ``` 
+## Arrays
+` array-var = new type[size]; `
+- Ex:
+  ```
+  int diasDaSemana[] = new int[7];
+  diasDaSemana[0] = "Segunda";
+  diasDaSemana[1] = "Terça";
+  diasDaSemana[2] = "Quarta";
+  diasDaSemana[3] = "Quinta";
+  diasDaSemana[4] = "Sexta";
+  diasDaSemana[5] = "Sábado";
+  diasDaSemana[6] = "Domingo";
+  ``` 
 
