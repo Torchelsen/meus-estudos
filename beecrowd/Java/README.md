@@ -1,0 +1,1 @@
+To submit the problems in Beecrowd you have to change the class name "Bee100X" for "Main".

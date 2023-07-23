@@ -4,13 +4,13 @@
 ## Problemas Resolvidos:
 | Problema | Nome | Linguagem |
 | ----------- | ----------- | ----------- |
-| 1000 | Hello World! | [C](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/C/1000.c) \| [JavaScript](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/JavaScript/1000.js)
-| 1001 | Extremamente Básico | [C](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/C/1001.c) \| [JavaScript](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/JavaScript/1001.js)
-| 1002 | Área do Círculo | [C](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/C/1002.c) \| [JavaScript](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/JavaScript/1002.js)
-| 1003 | Soma Simples | [C](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/C/1003.c) \| [JavaScript](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/JavaScript/1003.js)
-| 1004 | Produto Simples | [C](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/C/1004.c) \| [JavaScript](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/JavaScript/1004.js)
-| 1005 | Média 1 | [C](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/C/1005.c) \| [JavaScript](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/JavaScript/1005.js)
-| 1006 | Média 2 | [C](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/C/1006.c) \| [JavaScript](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/JavaScript/1006.js)
+| 1000 | Hello World! | [C](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/C/1000.c) \| [JavaScript](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/JavaScript/1000.js) \| [Java](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/Java/Bee1000.java)
+| 1001 | Extremamente Básico | [C](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/C/1001.c) \| [JavaScript](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/JavaScript/1001.js) \| [Java](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/Java/Bee1001.java)
+| 1002 | Área do Círculo | [C](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/C/1002.c) \| [JavaScript](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/JavaScript/1002.js) \| [Java](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/Java/Bee1002.java)
+| 1003 | Soma Simples | [C](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/C/1003.c) \| [JavaScript](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/JavaScript/1003.js) \| [Java](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/Java/Bee1003.java)
+| 1004 | Produto Simples | [C](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/C/1004.c) \| [JavaScript](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/JavaScript/1004.js) \| [Java](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/Java/Bee1004.java)
+| 1005 | Média 1 | [C](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/C/1005.c) \| [JavaScript](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/JavaScript/1005.js) \| [Java](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/Java/Bee1005.java)
+| 1006 | Média 2 | [C](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/C/1006.c) \| [JavaScript](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/JavaScript/1006.js) \| [Java](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/Java/Bee1006.java)
 | 1007 | Diferença | [C](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/C/1007.c) \| [JavaScript](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/JavaScript/1007.js)
 | 1008 | Salário | [C](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/C/1008.c) \| [JavaScript](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/JavaScript/1008.js)
 | 1009 | Salário com Bônus | [C](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/C/1009.c) \| [JavaScript](https://github.com/torchelsen/meus-estudos/blob/main/beecrowd/JavaScript/1009.js)
